@@ -21,7 +21,6 @@
 
 - [Documentation](https://mlflow.org/docs/latest/index.html)
 
-- [MLflow tutorial](https://youtube.com/playlist?list=PLkz_y24mlSJZrqiZ4_cLUiP0CBN5wFmTb&si=zEp_C8zLHt1DzWKK)
 
 ##### cmd
 - mlflow ui
@@ -33,7 +32,7 @@ Run dagshub_script.py to export dagshub variables
 
 ```
 import dagshub
-dagshub.init(repo_owner='pranshu1840', repo_name='mlflow-cancer-prediction-dvc-cicd', mlflow=True)
+dagshub.init(repo_owner='pranshu1840', repo_name='mlflow-kidney-prediction-dvc-cicd', mlflow=True)
 
 import mlflow
 with mlflow.start_run():
