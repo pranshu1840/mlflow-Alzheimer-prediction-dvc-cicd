@@ -1,4 +1,4 @@
-# Alzheimer-Prediction-using-MLflow-DVC-End-to-End
+# Kidney-Prediction-using-MLflow-DVC-End-to-End
 
 
 ## Workflows
