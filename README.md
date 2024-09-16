@@ -1,4 +1,4 @@
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
+# Chest-Cancer-Classification-using-MLflow-DVC-End-to-End
 
 
 ## Workflows
