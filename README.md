@@ -1,4 +1,4 @@
-# Kidney-Prediction-using-MLflow-DVC-End-to-End
+# Kidney-Tumor-Prediction-using-MLflow-DVC-End-to-End
 
 
 ## Workflows
