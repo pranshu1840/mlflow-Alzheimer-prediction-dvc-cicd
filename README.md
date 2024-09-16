@@ -1,4 +1,4 @@
-# Chest-Cancer-Classification-using-MLflow-DVC-End-to-End
+# Alzheimer-Prediction-using-MLflow-DVC-End-to-End
 
 
 ## Workflows
